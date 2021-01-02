@@ -1,0 +1,7 @@
+class Ejemplo {
+float Cuenta, Numero, Resultado;
+Cuenta = 23 + (Numero – Num);
+Numero = Cuenta * 123.99;
+Resultado = Numero+Cuenta;
+read(Resultado);
+} 

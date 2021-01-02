@@ -1,0 +1,57 @@
+
+Simbolos:
+Lexema--> Ejemplo| Clasificacion--> Identificador
+Lexema--> Cuenta| Clasificacion--> Identificador
+Lexema--> Numero| Clasificacion--> Identificador
+Lexema--> Resultado| Clasificacion--> Identificador
+Lexema--> Num| Clasificacion--> Identificador
+Lexema--> Cons| Clasificacion--> Identificador
+
+Palabras Reservadas:
+class
+float
+int
+read
+write
+
+Tokens:
+Lexema -> class| Clasificacion -> Palabra reservada| Atributo -> 204
+Lexema -> Ejemplo| Clasificacion -> Identificador| Atributo -> 200
+Lexema -> {| Clasificacion -> Carácter simple| Atributo -> 203
+Lexema -> float| Clasificacion -> Palabra reservada| Atributo -> 204
+Lexema -> Cuenta| Clasificacion -> Identificador| Atributo -> 200
+Lexema -> ,| Clasificacion -> Carácter simple| Atributo -> 203
+Lexema -> Numero| Clasificacion -> Identificador| Atributo -> 200
+Lexema -> ,| Clasificacion -> Carácter simple| Atributo -> 203
+Lexema -> Resultado| Clasificacion -> Identificador| Atributo -> 200
+Lexema -> ;| Clasificacion -> Carácter simple| Atributo -> 203
+Lexema -> int| Clasificacion -> Palabra reservada| Atributo -> 204
+Lexema -> Num| Clasificacion -> Identificador| Atributo -> 200
+Lexema -> ,| Clasificacion -> Carácter simple| Atributo -> 203
+Lexema -> Cons| Clasificacion -> Identificador| Atributo -> 200
+Lexema -> =| Clasificacion -> Carácter simple| Atributo -> 203
+Lexema -> 23| Clasificacion -> Número natural| Atributo -> 201
+Lexema -> ;| Clasificacion -> Carácter simple| Atributo -> 203
+Lexema -> (| Clasificacion -> Carácter simple| Atributo -> 203
+Lexema -> )| Clasificacion -> Carácter simple| Atributo -> 203
+Lexema -> ;| Clasificacion -> Carácter simple| Atributo -> 203
+Lexema -> =| Clasificacion -> Carácter simple| Atributo -> 203
+Lexema -> 23| Clasificacion -> Número natural| Atributo -> 201
+Lexema -> +| Clasificacion -> Carácter simple| Atributo -> 203
+Lexema -> (| Clasificacion -> Carácter simple| Atributo -> 203
+Lexema -> +| Clasificacion -> Carácter simple| Atributo -> 203
+Lexema -> )| Clasificacion -> Carácter simple| Atributo -> 203
+Lexema -> ;| Clasificacion -> Carácter simple| Atributo -> 203
+Lexema -> =| Clasificacion -> Carácter simple| Atributo -> 203
+Lexema -> *| Clasificacion -> Carácter simple| Atributo -> 203
+Lexema -> 123.99| Clasificacion -> Número flotante| Atributo -> 202
+Lexema -> ;| Clasificacion -> Carácter simple| Atributo -> 203
+Lexema -> =| Clasificacion -> Carácter simple| Atributo -> 203
+Lexema -> +| Clasificacion -> Carácter simple| Atributo -> 203
+Lexema -> ;| Clasificacion -> Carácter simple| Atributo -> 203
+Lexema -> write| Clasificacion -> Palabra reservada| Atributo -> 204
+Lexema -> (| Clasificacion -> Carácter simple| Atributo -> 203
+Lexema -> )| Clasificacion -> Carácter simple| Atributo -> 203
+Lexema -> ;| Clasificacion -> Carácter simple| Atributo -> 203
+Lexema -> }| Clasificacion -> Carácter simple| Atributo -> 203
+
