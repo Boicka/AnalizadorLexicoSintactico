@@ -307,10 +307,10 @@ public class Analizador {
                 }
                 break;
             case 201:
-                unidad = new Token(obtenerLexema(), num, "int");
+                unidad = new Token(obtenerLexema(), num, "enteros");
                 break;
             case 202:
-                unidad = new Token(obtenerLexema(), num, "float");
+                unidad = new Token(obtenerLexema(), num, "reales");
                 break;
             case 203:
                 unidad = new Token(obtenerLexema(), num, "Carácter simple");
