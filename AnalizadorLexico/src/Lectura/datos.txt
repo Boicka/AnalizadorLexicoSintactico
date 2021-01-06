@@ -1,6 +1,6 @@
 class Ejemplo {
 float Cuenta, Numero, Resultado;
-int Num, Cons;
+int Num, Cons = 23;
 read (Num);
 Cuenta = 23 + (Numero - Num);
 Numero = Cuenta * 123.99;
