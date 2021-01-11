@@ -49,5 +49,4 @@ public class Tablas {
     public int[][] getMatrizPredictiva() {
         return matrizPredictiva;
     }
-
 }
